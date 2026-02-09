@@ -1,3 +1,5 @@
+![Coherent Worlds Labs Header](header.png)
+
 # Coherent Worlds Labs
 
 **Coherent Worlds Labs** is a research initiative dedicated to studying how worlds can
